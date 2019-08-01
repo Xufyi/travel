@@ -30,7 +30,7 @@
 		methods:{
 			getCityInfo(){
 				//发送请求，获取数据
-				axios.get('https://xufyi.github.io/travel1/static/mock/city.json')
+				axios.get('https://xufyi.github.io/travel/static/mock/city.json')
 				.then(this.getCityInfoSucc)
 			},
 			getCityInfoSucc({data} = data){
