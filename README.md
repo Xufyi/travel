@@ -1,5 +1,6 @@
 项目预览链接：
 https://xufyi.github.io/travel/dist/#/
+请按F12,用移动端视口浏览
 
 
 
