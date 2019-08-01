@@ -38,7 +38,7 @@
 		},
 		methods:{
 			getHomeInfo(){
-				axios.get("/api/index.json?city=" + this.currentCity)
+				axios.get("https://xufyi.github.io/travel1/static/mock/index.json?city=" + this.currentCity)
 				.then(({data} = data)=>{
 					console.log(data)
 					if(data.ret && data.data){

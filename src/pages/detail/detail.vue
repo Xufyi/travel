@@ -52,7 +52,7 @@
 			}
 		},
 		mounted(){
-			axios.get('api/detail.json',{
+			axios.get('https://xufyi.github.io/travel1/static/mock/detail.json',{
 				params:{
 					id:this.$route.params.id
 				}
