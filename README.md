@@ -1,6 +1,9 @@
-项目预览链接：
+项目预览：
 https://xufyi.github.io/travel/dist/#/
 请按F12,用移动端视口浏览
+
+![image](https://github.com/Xufyi/travel/blob/master/index.png)
+
 
 
 
