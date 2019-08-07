@@ -3,7 +3,7 @@ https://xufyi.github.io/travel/dist/#/
 请按F12,用移动端视口浏览
 
 
-![image](https://github.com/Xufyi/travel/blob/master/travel.gif)
+![img](https://github.com/Xufyi/travel/blob/master/travel.gif)
 
 
 项目介绍:   
