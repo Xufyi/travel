@@ -1,15 +1,18 @@
 项目预览：
+-----
 https://xufyi.github.io/travel/dist/#/
 请按F12,用移动端视口浏览
 
 
 项目演示:
+-----
 <div align=center>
    <img src="https://github.com/Xufyi/travel/blob/master/travel.gif" width="259" height="470">  
 </div>
 
 
 项目介绍:   
+-----
   项目分为，home,city,list 3个主要部分。  
 1.用vue-cli搭建并打包。   
 2.进入home主页面，默认城市"深圳"，可点击进入city页面。  
@@ -23,7 +26,8 @@ https://xufyi.github.io/travel/dist/#/
 7.详情页下方的“儿童票”部分使用了递归组件渲染  
       
       
-使用的工具和插件：  
+使用的工具和插件： 
+-----
 1.引入reset（重置样式），border样式文件（解决移动端1px边框会被当成2像素边框的问题）  
 2.轮播图使用了vue-awesome-swiper 4.0版本。  
 3.city页面的滚动使用了better-scroll  
@@ -32,12 +36,13 @@ https://xufyi.github.io/travel/dist/#/
   
   
 项目中的注意点：  
+-----
 1.vue移动端绑定click事件失效  
 better-scroll 默认会阻止浏览器的原生 click 事件，需要配置click：true  
 this.scroll = new Bscroll(this.$refs.wrapper,{ mouseWheel: true, click: true, tap: true })  
   
 2.移动端300ms点击延迟  
-禁用游览器缩放  
+禁用浏览器缩放  
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">  
 使用FastClick（FastClick是一个简单易用的库，用于消除物理点击和click在移动浏览器上触发事件之间300毫秒的延迟）  
 import FastClick from 'fastclick'  
