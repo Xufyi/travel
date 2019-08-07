@@ -4,6 +4,7 @@ https://xufyi.github.io/travel/dist/#/
 
 
 项目演示:(可能360会看不到预览git图，建议用谷歌)  
+<img src="https://github.com/Xufyi/travel/blob/master/travel.gif" width="259" height="470">  
 ![img](https://github.com/Xufyi/travel/blob/master/travel.gif)
   
   
