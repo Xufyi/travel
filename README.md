@@ -3,9 +3,10 @@ https://xufyi.github.io/travel/dist/#/
 请按F12,用移动端视口浏览
 
 
+项目演示:(可能360会看不到预览git图，建议用谷歌)
 ![img](https://github.com/Xufyi/travel/blob/master/travel.gif)
-
-
+  
+  
 项目介绍:   
   项目分为，home,city,list 3个主要部分。  
 1.用vue-cli搭建并打包。   
