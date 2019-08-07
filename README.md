@@ -4,10 +4,11 @@ https://xufyi.github.io/travel/dist/#/
 
 
 项目演示:(可能360会看不到预览git图，建议用谷歌)  
-<img src="https://github.com/Xufyi/travel/blob/master/travel.gif" width="259" height="470">  
-![img](https://github.com/Xufyi/travel/blob/master/travel.gif)
-  
-  
+<div align=center>
+   <img src="https://github.com/Xufyi/travel/blob/master/travel.gif" width="259" height="470">  
+</div>
+
+
 项目介绍:   
   项目分为，home,city,list 3个主要部分。  
 1.用vue-cli搭建并打包。   
